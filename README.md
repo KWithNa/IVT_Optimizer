@@ -92,4 +92,4 @@ Pull requests are welcome for:
 - We would like to thank all the researchers and clinicians from original studies contributing to our works.
 
 
-IVT Optimizer – Precision in intravenous thrombolysis, personalized for every stroke patient.
+*IVT Optimizer – Precision in intravenous thrombolysis, personalized for every stroke patient.*
