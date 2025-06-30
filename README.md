@@ -60,7 +60,7 @@ Users can **dynamically adjust domain weights**, select therapeutic windows (≤
 - Open R and **set working directory** to the unzipped folder.
 ```r
 # For example:
-setwd("D:/IVT_Optimizer/Script")
+setwd("D:/IVT_Optimizer-main/Script")
 ```
 - Run codes in `IVT_Optimizer.R` and launch the app.
 
